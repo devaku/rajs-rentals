@@ -1,6 +1,6 @@
 # Raj's Robot Rentals
 
-A website that calculates the model rentals for a particular given a specified duration.
+A website that calculates the model rentals for a particular model given a specified duration.
 
 ## Credits
 
